@@ -5,3 +5,17 @@ i.code {
 .container.main{
 	margin-top: 7.0em;
 }
+
+#delete {
+	display: inline;
+}
+
+a.no-style {
+	text-decoration: none;
+	list-style: none;
+	color: black;
+}
+
+.no-style:hover {
+	color: steelblue;
+}
